@@ -1,3 +1,4 @@
+/* Global Body Styles Start */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,16 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Header Styles Start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,15 +51,8 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header Styles End */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;
@@ -188,6 +192,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Styles Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +203,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Styles End */
