@@ -23,7 +23,7 @@ Once installed, open all the contents within a code editor to view the index, st
 ​
 ## Credits
 * Started with a set of code provied from [Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram)
-* Followed instructions and tutorials on accessibility from the [Course] (https://courses.bootcampspot.com/courses/258/assignments/4870?module_item_id=68862)
+* Followed instructions and tutorials on accessibility from the [Course](https://courses.bootcampspot.com/courses/258/assignments/4870?module_item_id=68862)
 ​
 ​
 ## License
